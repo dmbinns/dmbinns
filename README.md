@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to Daniela's GitHub 👋
+
+### ✨ I'm a student at Brigham Young University studying Statistics: Data Science! 
+### 🌱 I'm currently learning the ins and out of GitHub and how I can use it to improve my skills in Data Science.
+### ⚡ If you would like to know more about me, visit my LinkedIn Profile dmbinns!
 
 <!--
 **dmbinns/dmbinns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
